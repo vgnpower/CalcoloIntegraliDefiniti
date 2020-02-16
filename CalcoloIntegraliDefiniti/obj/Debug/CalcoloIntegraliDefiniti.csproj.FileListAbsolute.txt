@@ -1,0 +1,11 @@
+E:\Progetti2017\CalcoloIntegraliDefiniti\CalcoloIntegraliDefiniti\bin\Debug\CalcoloIntegraliDefiniti.exe.config
+E:\Progetti2017\CalcoloIntegraliDefiniti\CalcoloIntegraliDefiniti\bin\Debug\CalcoloIntegraliDefiniti.exe
+E:\Progetti2017\CalcoloIntegraliDefiniti\CalcoloIntegraliDefiniti\bin\Debug\CalcoloIntegraliDefiniti.pdb
+E:\Progetti2017\CalcoloIntegraliDefiniti\CalcoloIntegraliDefiniti\obj\Debug\CalcoloIntegraliDefiniti.csprojResolveAssemblyReference.cache
+E:\Progetti2017\CalcoloIntegraliDefiniti\CalcoloIntegraliDefiniti\obj\Debug\CalcoloIntegraliDefiniti.Properties.Resources.resources
+E:\Progetti2017\CalcoloIntegraliDefiniti\CalcoloIntegraliDefiniti\obj\Debug\CalcoloIntegraliDefiniti.csproj.GenerateResource.Cache
+E:\Progetti2017\CalcoloIntegraliDefiniti\CalcoloIntegraliDefiniti\obj\Debug\CalcoloIntegraliDefiniti.exe
+E:\Progetti2017\CalcoloIntegraliDefiniti\CalcoloIntegraliDefiniti\obj\Debug\CalcoloIntegraliDefiniti.pdb
+E:\Progetti2017\CalcoloIntegraliDefiniti\CalcoloIntegraliDefiniti\bin\Debug\LoreSoft.MathExpressions.dll
+E:\Progetti2017\CalcoloIntegraliDefiniti\CalcoloIntegraliDefiniti\bin\Debug\LoreSoft.MathExpressions.pdb
+E:\Progetti2017\CalcoloIntegraliDefiniti\CalcoloIntegraliDefiniti\obj\Debug\CalcoloIntegraliDefiniti.FrmPrincipale.resources
